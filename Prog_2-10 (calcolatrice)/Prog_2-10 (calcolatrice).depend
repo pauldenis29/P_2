@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508967211 source:c:\users\dell\desktop\informatica\prog_2-10 (calcolatrice)\main.c
+	<stdio.h>
+	<stdlib.h>
+

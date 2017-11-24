@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508947582 source:c:\users\dell\desktop\informatica\prog2-4\main.c
+	<stdio.h>
+	<stdlib.h>
+
